@@ -1,10 +1,10 @@
 # Favourite Cafes Wesbite
 
-![Contributors](https://img.shields.io/github/contributors/jvsadek/Joseph_Sadek_portfolio?style=plastic)
-![Forks](https://img.shields.io/github/forks/jvsadek/Joseph_Sadek_portfolio)
-![Stars](https://img.shields.io/github/stars/jvsadek/Joseph_Sadek_portfolio)
-![Licence](https://img.shields.io/github/license/jvsadek/Joseph_Sadek_portfolio)
-![Issues](https://img.shields.io/github/issues/jvsadek/Joseph_Sadek_portfolio)
+![Contributors](https://img.shields.io/github/contributors/jvsadek/Cafes_Website?style=plastic)
+![Forks](https://img.shields.io/github/forks/jvsadek/Cafes_Website)
+![Stars](https://img.shields.io/github/stars/jvsadek/Cafes_Website)
+![Licence](https://img.shields.io/github/license/jvsadek/Cafes_Website)
+![Issues](https://img.shields.io/github/issues/jvsadek/Cafes_Website)
 
 ## 
 ### Description
