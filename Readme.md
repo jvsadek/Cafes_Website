@@ -16,6 +16,6 @@ This is an online website to save your favourite cafes and rate them according t
 I completed this portfolio website, as one of the assignments in professional [Python 100 Days bootcamp](https://www.udemy.com/course/100-days-of-code/) by [Dr. Angela Yu](https://github.com/angelabauer).
 
 ### Quick Start
-- Static version at [GitHub Pages](https://jvsadek.github.io/Joseph_Sadek_portfolio/)
+- Static version at [GitHub Pages](https://jvsadek.github.io/Cafe_Website/)
 
 [//]: # (- Dynamic version at [Render hosted]&#40;https://portfolio-website-d1x4.onrender.com&#41;)
